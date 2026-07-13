@@ -36,14 +36,13 @@ My goal is to become a software engineer who builds practical software and intel
 
 ---
 
-# 🎯 Currently Learning & Building
+## 🎯 Currently Learning & Focus
 
-- **C++** and **Python** programming
-- **Object-Oriented Programming (OOP)** fundamentals
-- **Data Structures & Algorithms**
-- **Software Requirements Engineering**
-- **AI & Machine Learning** fundamentals
-- Practical software projects to apply what I'm learning
+- C++
+- Python
+- Object-Oriented Programming (OOP)
+- Data Structures & Algorithms
+- AI & Machine Learning Fundamentals
 
 ---
 
