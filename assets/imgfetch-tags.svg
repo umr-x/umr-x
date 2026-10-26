@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 345 34" width="345" height="34" role="img" aria-label="JavaScript, Chrome, Edge"><g transform="translate(1 1)">
+    <rect width="133" height="32" rx="10" fill="#161b22" stroke="#30363d"/>
+    <g transform="translate(13 7) scale(0.75)"><path d="M0 0h24v24H0V0zm22.034 18.276c-.175-1.095-.888-2.015-3.003-2.873-.736-.345-1.554-.585-1.797-1.14-.091-.33-.105-.51-.046-.705.15-.646.915-.84 1.515-.66.39.12.75.42.976.9 1.034-.676 1.034-.676 1.755-1.125-.27-.42-.404-.601-.586-.78-.63-.705-1.469-1.065-2.834-1.034l-.705.089c-.676.165-1.32.525-1.71 1.005-1.14 1.291-.811 3.541.569 4.471 1.365 1.02 3.361 1.244 3.616 2.205.24 1.17-.87 1.545-1.966 1.41-.811-.18-1.26-.586-1.755-1.336l-1.83 1.051c.21.48.45.689.81 1.109 1.74 1.756 6.09 1.666 6.871-1.004.029-.09.24-.705.074-1.65l.046.067zm-8.983-7.245h-2.248c0 1.938-.009 3.864-.009 5.805 0 1.232.063 2.363-.138 2.711-.33.689-1.18.601-1.566.48-.396-.196-.597-.466-.83-.855-.063-.105-.11-.196-.127-.196l-1.825 1.125c.305.63.75 1.172 1.324 1.517.855.51 2.004.675 3.207.405.783-.226 1.458-.691 1.811-1.411.51-.93.402-2.07.397-3.346.012-2.054 0-4.109 0-6.179l.004-.056z" fill="#F7DF1E"/></g>
+    <text x="40" y="20.5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#e6edf3">JavaScript</text>
+  </g><g transform="translate(144 1)">
+    <rect width="103" height="32" rx="10" fill="#161b22" stroke="#30363d"/>
+    <g transform="translate(13 7) scale(0.75)"><path d="M12 0C8.21 0 4.831 1.757 2.632 4.501l3.953 6.848A5.454 5.454 0 0 1 12 6.545h10.691A12 12 0 0 0 12 0zM1.931 5.47A11.943 11.943 0 0 0 0 12c0 6.012 4.42 10.991 10.189 11.864l3.953-6.847a5.45 5.45 0 0 1-6.865-2.29zm13.342 2.166a5.446 5.446 0 0 1 1.45 7.09l.002.001h-.002l-5.344 9.257c.206.01.413.016.621.016 6.627 0 12-5.373 12-12 0-1.54-.29-3.011-.818-4.364zM12 16.364a4.364 4.364 0 1 1 0-8.728 4.364 4.364 0 0 1 0 8.728Z" fill="#4C8BF5"/></g>
+    <text x="40" y="20.5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#e6edf3">Chrome</text>
+  </g><g transform="translate(257 1)">
+    <rect width="87" height="32" rx="10" fill="#161b22" stroke="#30363d"/>
+    <g transform="translate(13 7) scale(0.75)"><circle cx="12" cy="12" r="10" fill="none" stroke="#35C1F1" stroke-opacity="0.35" stroke-width="2"/><path d="M18.5 12.2 H7 C7 9.3 9.2 7.2 12 7.2 C14.8 7.2 17 9.3 17 12.2" fill="none" stroke="#35C1F1" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><path d="M7 12.2 C7 15.8 9.6 18 12.8 18 C14.8 18 16.4 17.2 17.6 15.8" fill="none" stroke="#3FD0A5" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></g>
+    <text x="40" y="20.5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#e6edf3">Edge</text>
+  </g>
+</svg>
